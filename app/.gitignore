@@ -2,7 +2,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-*.txt
 .Python
 build/
 develop-eggs/
@@ -39,7 +38,7 @@ cover/
 *.mo
 *.pot
 __pypackages__/
-.idea
+../.idea
 *.iml
 out
 gen
